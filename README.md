@@ -107,8 +107,4 @@ Feel free to contribute to this project by:
 - Improving the UI/UX
 - Adding new features like different grid sizes
 - Optimizing performance
-- Adding unit tests
-
-## License
-
-This project is open source and available under the MIT License. 
+- Adding unit test
